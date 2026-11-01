@@ -13,7 +13,7 @@ the same collection, not a sale of the owned token.
 | Botmolt | 0x4A15F38c75E529205a45BD2eE57c02AFAB2F6569 | #7639 | 0.000247 BNB | #3475 |
 | Hallowed Agents | 0x096243e665083c7628923d7db71805b15c4a6054 | #3290 | 0.0003 BNB | #3101 |
 | Synklings | 0x48250aD93B4fCbB54EA70dCb97B198BbA7d548c2 | #5395 | 0.0003 BNB | #2381 |
-| WorldYGG | 0x2ED9E0a6992BA22B48c2fc2def6bB2365301A0D0 | #21615 | 0.007 BNB | not shown in Activity row |
+| WorldYGG | 0x2ED9E0a6992BA22B48c2fc2def6bB2365301A0D0 | #21615 | 0.009 BNB | not shown in Activity row |
 | Fly4 Neurons | 0x4444a6d7964f2dd077d0d60144a569fc566daf69 | #6899 | 0.5 USDT | not noted |
 | HOOTCAST | 0xbfccd7de6ef1b3d81632412600a933cd6de14b77 | #1789 | 0.00005 BNB | #1868, #1709 |
 
