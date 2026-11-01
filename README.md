@@ -76,7 +76,7 @@ tokens owned here. No owned token has been sold yet.
 | Botmolt | 0.000247 BNB | #3475 | 31 Oct 2026 |
 | Hallowed Agents | 0.0003 BNB | #3101 | 31 Oct 2026 |
 | Synklings | 0.0003 BNB | #2381 | 31 Oct 2026 |
-| WorldYGG | 0.0053 BNB | #1424 | 31 Oct 2026 |
+| WorldYGG | 0.007 BNB | not shown | 1 Nov 2026 |
 | Fly4 Neurons | 0.5 USDT | — | 31 Oct 2026 |
 | HOOTCAST | 0.00005 BNB | #1868, #1709 | 31 Oct 2026 |
 
